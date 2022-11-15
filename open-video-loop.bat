@@ -4,7 +4,7 @@ cls
 
 :start
 
-video.mp4
+C:\Users\Public\Downloads\Adoble\video.mp4
 
 timeout 5
 
